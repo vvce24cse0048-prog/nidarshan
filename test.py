@@ -1,5 +1,3 @@
 print("vvce")
 print("employee")
-print("proffessor")
-print("computer science and engineering")
-print("cse")
+
